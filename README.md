@@ -1,5 +1,6 @@
 # projeto-video
 
+<pre> 
 projeto-video/
 │
 ├── README.md
@@ -9,4 +10,7 @@ projeto-video/
 ├── data/
 │   ├── frames_fits.db         # Banco de dados com imagens FITS
 │   └── outputs/               
-└── .gitignore
+└── .gitignore </pre>
+
+
+
